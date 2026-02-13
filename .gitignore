@@ -85,6 +85,7 @@ data/
 *.csv
 *.xlsx
 *.xls
+*.docx
 *.parquet
 
 # Large files
