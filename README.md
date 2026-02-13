@@ -66,7 +66,7 @@ In this step, we use AWS Athena to run SQL queries on the processed data stored 
 
 Finally, we connect AWS QuickSight to Athena to visualize the data. QuickSight offers an intuitive interface to create charts, graphs, and dashboards based on the processed data. These visualizations can be shared with stakeholders, providing them with actionable insights from the data.
 
-*Please refer to the [runbook guide](#) in this repository for detailed steps along with the screenshots.*
+*Please refer to the [runbook guide](cloudDataPipelineProject.pdf) in this repository for detailed steps along with the screenshots.*
 
 ## Conclusion
 
