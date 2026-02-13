@@ -1,0 +1,115 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+
+# AWS
+.aws/
+*.pem
+*.key
+credentials
+aws_credentials
+
+# Environment Variables
+.env
+.env.local
+.env.*.local
+
+# AWS Specific
+**/aws-exports.json
+**/appsync-metadata.json
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~
+.~*
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.hypothesis/
+
+# Data files (if storing data locally for testing)
+data/
+*.csv
+*.xlsx
+*.xls
+*.parquet
+
+# Large files
+*.tar.gz
+*.zip
+
+# Node (if using any node dependencies)
+node_modules/
+package-lock.json
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*.ipynb
+
+# Mac
+.AppleDouble
+.LSOverride
+
+# IntelliJ
+*.iml
+.gradle
+.idea/
+
+# Keep important files
+!data/.gitkeep
+!scripts/.gitkeep
+!sql/.gitkeep
+!docs/.gitkeep
